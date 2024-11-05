@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python3 and Brushing Up on my Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Java Applications.
 - 📫 You Can Reach Me At: jacobgalvez18@gmail.com
-- ⚡ Fun fact: I love playing the guitar and singing.
 
