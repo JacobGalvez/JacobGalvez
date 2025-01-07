@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a Business Website where clients can inquiry about getting a custom website made for them, including email forms and payment processing.
+- 🔭 I’m currently working on a Routine Tracker Web Application buiilt in the MERN Stack.
 - 🌱 I’m currently learning Python3 and Brushing Up on my Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Java Applications.
 - 📫 You Can Reach Me At: jacobgalvez18@gmail.com
